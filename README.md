@@ -18,3 +18,4 @@ License
 -------
 
 MIT (see [LICENSE.txt](LICENSE.txt))
+This repository was forked/cloned and modified as part of an internship GitHub learning exercise.
